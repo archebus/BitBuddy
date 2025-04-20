@@ -1,7 +1,5 @@
-# 🐾 SuperPet
-
 <div align="center">
-  <img src="images/bit_buddy.png" alt="Bit Buddy Logo" width="200">
+  <h1>🐾 BitBuddy</h1>
 </div>
 
 <div align="center">
@@ -23,22 +21,22 @@
 
 ## ✨ Features
 
-- **Create Your Pet**: Choose various characteristics and watch as your pet develops a unique personality
+- **Create Your Pet**: Choose initial starting personality that alters apperanace
 - **Core Pet Stats**: Manage hunger, energy, happiness, and weight metrics
 - **Dynamic States**: Your pet has multiple emotional and physical states based on its needs
-- **Persistence**: Save and load pet data with automatic backups
+- **Persistence**: Saving done automatically on timer, statechange and exit
 - **Offline Progression**: Pet stats continue to evolve even when you're away
 - **Modular Pet Parts**: Modular parts means your pet evolves in unique ways
-- **ASCII Animation**: Charming terminal-based visuals with color and animation
+- **ASCII Animation**: Terminal-based visuals with color and animation
 
 ## 🚀 Installation
 
 ### Pre-built Binaries
 
 Download the latest release for your platform:
-- [Windows](https://github.com/yourusername/superpet/releases/latest)
-- [macOS](https://github.com/yourusername/superpet/releases/latest)
-- [Linux](https://github.com/yourusername/superpet/releases/latest)
+- [Windows](https://github.com/archebus/BitBuddy/releases/latest)
+- [macOS](https://github.com/archebus/BitBuddy/releases/latest)
+- [Linux](https://github.com/archebus/BitBuddy/releases/latest)
 
 ### Build from Source
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("low_poly_buddy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+848d10f7deb20797123e328fa861a307dc377a9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("low_poly_buddy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("low_poly_buddy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
