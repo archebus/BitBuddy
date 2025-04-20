@@ -78,8 +78,9 @@ Your pet will express different behaviors based on its current state:
 
 ### Terminal Version
 <div align="center">
-  <img src="docs/images/terminal_happy.png" alt="Happy Pet" width="300">
-  <img src="docs/images/terminal_sleeping.png" alt="Sleeping Pet" width="300">
+  <img src="assets/screen_1.png" alt="Boi" width="300">
+  <img src="assets/screen_2.png" alt="Dude" width="300">
+  <img src="assets/screen_3.png" alt="Steve" width="300">
 </div>
 
 ## 🗺️ Roadmap
