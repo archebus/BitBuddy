@@ -26,8 +26,8 @@
   <img src="assets/screen_3.png" alt="Steve" width="250">
 </div>
 
-## ✨ Features
 <a id="features"></a>
+## ✨ Features
 
 - **Create Your Pet**: Choose initial starting personality that alters apperanace
 - **Core Pet Stats**: Manage hunger, energy, happiness, and weight metrics
@@ -37,8 +37,8 @@
 - **Modular Pet Parts**: Modular parts means your pet evolves in unique ways
 - **ASCII Animation**: Terminal-based visuals with color and animation
 
-## 🚀 Installation
 <a id="installation"></a>
+## 🚀 Installation
 
 ### Pre-built Binaries
 
@@ -58,8 +58,8 @@ dotnet build
 dotnet run
 ```
 
-## 📝 Usage
 <a id="usage"></a>
+## 📝 Usage
 
 ### Commands
 
@@ -82,8 +82,8 @@ Your pet will express different behaviors based on its current state:
 - **Sleeping**: Replenishing energy, animated with Z's
 
 
-## 🗺️ Roadmap
 <a id="roadmap"></a>
+## 🗺️ Roadmap
 
 - [x] Core pet simulation mechanics
 - [x] Terminal-based UI
@@ -114,8 +114,8 @@ SuperPet/
 └── Game.cs        # Main game loop and management
 ```
 
-## 🤝 Contributing
 <a id="contributing"></a>
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -125,8 +125,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 <a id="license"></a>
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
