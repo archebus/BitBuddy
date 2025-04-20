@@ -12,7 +12,6 @@
     <a href="#features">Features</a> •
     <a href="#installation">Installation</a> •
     <a href="#usage">Usage</a> •
-    <a href="#screenshots">Screenshots</a> •
     <a href="#roadmap">Roadmap</a> •
     <a href="#contributing">Contributing</a> •
     <a href="#license">License</a>
@@ -28,6 +27,7 @@
 </div>
 
 ## ✨ Features
+<a id="features"></a>
 
 - **Create Your Pet**: Choose initial starting personality that alters apperanace
 - **Core Pet Stats**: Manage hunger, energy, happiness, and weight metrics
@@ -38,6 +38,7 @@
 - **ASCII Animation**: Terminal-based visuals with color and animation
 
 ## 🚀 Installation
+<a id="installation"></a>
 
 ### Pre-built Binaries
 
@@ -58,6 +59,7 @@ dotnet run
 ```
 
 ## 📝 Usage
+<a id="usage"></a>
 
 ### Commands
 
@@ -81,6 +83,7 @@ Your pet will express different behaviors based on its current state:
 
 
 ## 🗺️ Roadmap
+<a id="roadmap"></a>
 
 - [x] Core pet simulation mechanics
 - [x] Terminal-based UI
@@ -112,6 +115,7 @@ SuperPet/
 ```
 
 ## 🤝 Contributing
+<a id="contributing"></a>
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -122,6 +126,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 ## 📄 License
+<a id="license"></a>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
