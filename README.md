@@ -78,9 +78,9 @@ Your pet will express different behaviors based on its current state:
 
 ### Terminal Version
 <div align="center">
-  <img src="assets/screen_1.png" alt="Boi" width="300">
-  <img src="assets/screen_2.png" alt="Dude" width="300">
-  <img src="assets/screen_3.png" alt="Steve" width="300">
+  <img src="assets/screen_1.png" alt="Boi" width="200">
+  <img src="assets/screen_2.png" alt="Dude" width="200">
+  <img src="assets/screen_3.png" alt="Steve" width="200">
 </div>
 
 ## 🗺️ Roadmap
