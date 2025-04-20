@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "low_poly_buddy/1.0.0": {
+        "runtime": {
+          "low_poly_buddy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "low_poly_buddy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
