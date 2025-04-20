@@ -33,17 +33,14 @@
 
 ### Pre-built Binaries
 
-Download the latest release for your platform:
-- [Windows](https://github.com/archebus/BitBuddy/releases/latest)
-- [macOS](https://github.com/archebus/BitBuddy/releases/latest)
-- [Linux](https://github.com/archebus/BitBuddy/releases/latest)
+Download the latest release for your platform: [Releases](https://github.com/archebus/BitBuddy/releases/latest)
 
 ### Build from Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/superpet.git
-cd superpet
+git clone https://github.com/yourusername/BitBuddy.git
+cd BitBuddy
 
 # Build with .NET
 dotnet build
