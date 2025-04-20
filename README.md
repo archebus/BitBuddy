@@ -19,6 +19,14 @@
   </h3>
 </div>
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/screen_1.png" alt="Boi" width="250">
+  <img src="assets/screen_2.png" alt="Dude" width="250">
+  <img src="assets/screen_3.png" alt="Steve" width="250">
+</div>
+
 ## ✨ Features
 
 - **Create Your Pet**: Choose initial starting personality that alters apperanace
@@ -71,14 +79,6 @@ Your pet will express different behaviors based on its current state:
 - **Bored**: Needing stimulation, shown with ellipses
 - **Sleeping**: Replenishing energy, animated with Z's
 
-## 📸 Screenshots
-
-### Terminal Version
-<div align="center">
-  <img src="assets/screen_1.png" alt="Boi" width="250">
-  <img src="assets/screen_2.png" alt="Dude" width="250">
-  <img src="assets/screen_3.png" alt="Steve" width="250">
-</div>
 
 ## 🗺️ Roadmap
 
