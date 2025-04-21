@@ -48,7 +48,7 @@ Download the latest release for your platform: [Releases](https://github.com/arc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/BitBuddy.git
+git clone https://github.com/archebus/BitBuddy.git
 cd BitBuddy
 
 # Build with .NET
@@ -83,14 +83,17 @@ Your pet will express different behaviors based on its current state:
 
 
 <a id="roadmap"></a>
-## 🗺️ Roadmap
+## 🗺️ Roadmap [random order -- will work on whatever inspires me]
 
 - [x] Core pet simulation mechanics
 - [x] Terminal-based UI
 - [x] Save/load functionality
 - [x] Modular pet creation (legs, ears, tail)
 - [ ] Mini-games for increased interaction
+- [ ] Improved UI scaling for diff term sizes
+- [ ] Egg state for start
 - [ ] Pet personalities and traits
+- [ ] JSON settings file
 - [ ] Achievement system
 - [ ] Console beep effects
 - [ ] Death state, pet illness

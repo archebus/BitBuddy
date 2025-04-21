@@ -1,0 +1,2 @@
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/osx-x64/publish/low_poly_buddy.pdb
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/osx-x64/publish/low_poly_buddy

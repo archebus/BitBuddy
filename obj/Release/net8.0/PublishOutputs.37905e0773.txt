@@ -1,0 +1,5 @@
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/publish/low_poly_buddy
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/publish/low_poly_buddy.dll
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/publish/low_poly_buddy.deps.json
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/publish/low_poly_buddy.runtimeconfig.json
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/publish/low_poly_buddy.pdb

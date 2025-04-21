@@ -1,0 +1,15 @@
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/BitBuddy
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/BitBuddy.deps.json
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/BitBuddy.runtimeconfig.json
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/BitBuddy.dll
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/BitBuddy.pdb
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/BitBuddy.GeneratedMSBuildEditorConfig.editorconfig
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/BitBuddy.AssemblyInfoInputs.cache
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/BitBuddy.AssemblyInfo.cs
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/BitBuddy.csproj.CoreCompileInputs.cache
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/BitBuddy.sourcelink.json
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/BitBuddy.dll
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/refint/BitBuddy.dll
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/BitBuddy.pdb
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/BitBuddy.genruntimeconfig.cache
+/home/archebus/Documents/Study/BitBuddy/obj/Release/net8.0/ref/BitBuddy.dll

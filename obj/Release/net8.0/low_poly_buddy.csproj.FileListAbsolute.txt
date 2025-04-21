@@ -1,0 +1,15 @@
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/low_poly_buddy
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/low_poly_buddy.deps.json
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/low_poly_buddy.runtimeconfig.json
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/low_poly_buddy.dll
+/home/archebus/Documents/Study/low_poly_buddy/bin/Release/net8.0/low_poly_buddy.pdb
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/low_poly_buddy.GeneratedMSBuildEditorConfig.editorconfig
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/low_poly_buddy.AssemblyInfoInputs.cache
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/low_poly_buddy.AssemblyInfo.cs
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/low_poly_buddy.csproj.CoreCompileInputs.cache
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/low_poly_buddy.sourcelink.json
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/low_poly_buddy.dll
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/refint/low_poly_buddy.dll
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/low_poly_buddy.pdb
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/low_poly_buddy.genruntimeconfig.cache
+/home/archebus/Documents/Study/low_poly_buddy/obj/Release/net8.0/ref/low_poly_buddy.dll

@@ -1,0 +1,5 @@
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/publish/BitBuddy
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/publish/BitBuddy.dll
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/publish/BitBuddy.deps.json
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/publish/BitBuddy.runtimeconfig.json
+/home/archebus/Documents/Study/BitBuddy/bin/Release/net8.0/publish/BitBuddy.pdb
