@@ -4,7 +4,7 @@
 
 <div align="center">
   <strong>A nostalgic virtual pet simulator with modern features</strong><br>
-  Take care of your digital buddy in this Tamagotchi-inspired C# game
+  Take care of your digital buddy in this Tamagotchi-inspired Linux Console app
 </div>
 
 <div align="center">
@@ -42,7 +42,8 @@
 
 ### Pre-built Binaries
 
-Download the latest release for your platform: [Releases](https://github.com/archebus/BitBuddy/releases/latest)
+Download the latest release here: [Releases](https://github.com/archebus/BitBuddy/releases/latest)
+Due to hardware accelerated terminal restraints on windows, release is currently for linux only.
 
 ### Build from Source
 
@@ -102,8 +103,6 @@ Your pet will express different behaviors based on its current state:
 
 SuperPet is built with:
 - C# (.NET 8.0)
-- State Pattern for pet behavior
-- JSON serialization for save data
 
 ### Architecture
 

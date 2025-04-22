@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitBuddy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afbe3b445cf38815a650f555066d284cd98b3072")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57f6a8f3e6bb3b75b85fc3fb4efce713a65f4eb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitBuddy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitBuddy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
